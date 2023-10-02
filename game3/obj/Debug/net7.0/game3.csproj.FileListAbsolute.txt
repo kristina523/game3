@@ -1,0 +1,15 @@
+/Users/kris/Projects/game3/game3/bin/Debug/net7.0/game3
+/Users/kris/Projects/game3/game3/bin/Debug/net7.0/game3.deps.json
+/Users/kris/Projects/game3/game3/bin/Debug/net7.0/game3.runtimeconfig.json
+/Users/kris/Projects/game3/game3/bin/Debug/net7.0/game3.dll
+/Users/kris/Projects/game3/game3/bin/Debug/net7.0/game3.pdb
+/Users/kris/Projects/game3/game3/obj/Debug/net7.0/game3.csproj.AssemblyReference.cache
+/Users/kris/Projects/game3/game3/obj/Debug/net7.0/game3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kris/Projects/game3/game3/obj/Debug/net7.0/game3.AssemblyInfoInputs.cache
+/Users/kris/Projects/game3/game3/obj/Debug/net7.0/game3.AssemblyInfo.cs
+/Users/kris/Projects/game3/game3/obj/Debug/net7.0/game3.csproj.CoreCompileInputs.cache
+/Users/kris/Projects/game3/game3/obj/Debug/net7.0/game3.dll
+/Users/kris/Projects/game3/game3/obj/Debug/net7.0/refint/game3.dll
+/Users/kris/Projects/game3/game3/obj/Debug/net7.0/game3.pdb
+/Users/kris/Projects/game3/game3/obj/Debug/net7.0/game3.genruntimeconfig.cache
+/Users/kris/Projects/game3/game3/obj/Debug/net7.0/ref/game3.dll
